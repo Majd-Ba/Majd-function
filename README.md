@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of accelerometerpackage is to  analyze sequential accelerometer data which is composed of a x, y and z axis (i.e., three values for each time point. The data is a subset of one participants accelerometer data collected for one week at 100Hz. 
+The goal of accelerometerpackage is to  analyze sequential accelerometer data which is composed of a x, y and z axis (i.e., three values for each time point). The data is a subset of one participants accelerometer data collected for one week at 100Hz. 
 
 
 # Here is a step by step code to generate the required plot
